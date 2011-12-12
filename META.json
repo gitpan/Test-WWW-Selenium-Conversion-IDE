@@ -41,7 +41,7 @@
    "provides" : {
       "Test::WWW::Selenium::Conversion::IDE" : {
          "file" : "lib/Test/WWW/Selenium/Conversion/IDE.pm",
-         "version" : "0.3"
+         "version" : "0.4"
       }
    },
    "release_status" : "stable",
@@ -50,5 +50,5 @@
          "http://www.gnu.org/licenses/lgpl-3.0.txt"
       ]
    },
-   "version" : "0.3"
+   "version" : "0.4"
 }

@@ -18,7 +18,7 @@ name: Test-WWW-Selenium-Conversion-IDE
 provides:
   Test::WWW::Selenium::Conversion::IDE:
     file: lib/Test/WWW/Selenium/Conversion/IDE.pm
-    version: 0.3
+    version: 0.4
 requires:
   Carp: 0
   English: 0
@@ -29,4 +29,4 @@ requires:
   XML::LibXML: 0
 resources:
   license: http://www.gnu.org/licenses/lgpl-3.0.txt
-version: 0.3
+version: 0.4
